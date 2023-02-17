@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ShoppingBoss</string>
+    <string name="privacy_des">This privacy policy has been compiled to better serve those who are concerned with how their Personally identifiable information (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.</string>
+    <string name="privacy_des1">What personal information do we collect from the people that visit our blog, website or app?</string>
+    <string name="privacy_des2">When ordering or registering on our site or app, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.</string>
+    <string name="store">STORE</string>
+    <string name="pettijohn_auto_center">Pettijohn Auto Center</string>
+    <string name="address">1301 S. 25th St. / U.S. Highway 136 Bethany, MO64424</string>
+    <string name="phoneNo">866-434-2345</string>
+    <string name="mail">service@pettijohnauto.com</string>
+    <string name="follow_us_on">Follow us on:</string>
+    <string name="store_hours">Store Hours</string>
+    <string name="sales">Sales:</string>
+    <string name="Sales_time1">Mon/Tue/Wed/Fri: 8:00am to 5:00pm</string>
+    <string name="Sales_time2">Thu: 8:00am to 7:00pm</string>
+    <string name="Salaes_time3">Sat: 8:00am to 2:00pm</string>
+    <string name="serivce_parts">Serivce Parts:</string>
+    <string name="services_time1">Mon-Fri: 7:30am to 5:00pm</string>
+    <string name="service_time2">Sat: 7:30am to 12:00pm</string>
+    <string name="redeem_reward">REDEEM REWARD</string>
+    <string name="Lube_oil">$40.95 Lube, Oil and Filter</string>
+    <string name="title">You are about to redeem \nfor $40.95 Lube, Oil and Filter</string>
+    <string name="disclaimer1">Disclaimer: SAVE with Pettijohn Auto Center $40.95 Lube, Oil and Filter Special!</string>
+    <string name="disclaimer2">Call us today at 1-877-544-4223 to schedule an Oil and Filter Change.\n\nPlease present this Rewards Certificate at time of wirte-up.\n\nMay exclude diesel and synthetic oils, Not available with any other speical offers or discounts.</string>
+    <string name="redeem_point1">Tap Redeem to spend these points now \nand generate your unique redemption code.</string>
+    <string name="redeem_point2">Show this code to store employee to claim \nyour reward.</string>
+    <string name="redeem_point3">You can view an unused redemption code \nlater from this screen.</string>
+    <string name="FeastYourEyes">FEAST Your Eyes On These Thanksgiving \nwishes and something delicious to share...</string>
+    <string name="LoremIpsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+</resources>
